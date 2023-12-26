@@ -26,6 +26,4 @@ My name is Sienna, and I'm currently studying with Springboard to be a full-stac
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/siennabee"><img src="https://github-readme-stats.vercel.app/api?username=siennabee&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=64748b&icon_color=ec4899&bg_color=ffffff&hide_border=true&show_icons=true" alt="siennabee's GitHub stats" /></a>
-
 <a href="https://github.com/siennabee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siennabee&langs_count=10&title_color=a855f7&text_color=64748b&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
