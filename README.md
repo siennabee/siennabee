@@ -7,9 +7,9 @@ Fullstack Engineer
 My name is Sienna, and I'm currently studying with Springboard to be a full-stack engineer. I'm at the beginning of my developer journey, but I am excited to learn more and improve my skills. 
 
 * 🌍 | I'm based in New York
-* ✉️ |You can contact me at [sienna.v.bates@gmail.com](mailto:sienna.v.bates@gmail.com)
-* 🧠 |I'm learning Javascript
-* 👩🏽‍💻 |[Check out my LeetCode](https://leetcode.com/siennabee/)
+* ✉️ | You can contact me at [sienna.v.bates@gmail.com](mailto:sienna.v.bates@gmail.com)
+* 🧠 | I'm learning Javascript
+* 👩🏽‍💻 | [Check out my LeetCode](https://leetcode.com/siennabee/)
 
 ### Skills
 
