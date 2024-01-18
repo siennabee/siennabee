@@ -20,9 +20,9 @@ My name is Sienna, and I'm currently learning how to code in my free time. I'm e
 
 ### Projects
 
-[To-do List] (https://siennabee.github.io/ToDoList/)
-[Fruit Search] (https://siennabee.github.io/FruitSearch/)
-[Memory Game] (https://siennabee.github.io/MemoryGame/)
+[To-do List](https://siennabee.github.io/ToDoList/)
+[Fruit Search](https://siennabee.github.io/FruitSearch/)
+[Memory Game](https://siennabee.github.io/MemoryGame/)
 
 ### Socials
 
