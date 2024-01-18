@@ -4,7 +4,7 @@ Welcome to Sienna Bates's Github repository! [](https://user-images.githubuserco
 Fullstack Engineer
 ------------------
 
-My name is Sienna, and I'm currently studying with Springboard to be a full-stack engineer. I'm at the beginning of my developer journey, but I am excited to learn more and improve my skills. 
+My name is Sienna, and I'm currently learning how to code in my free time. I'm excited to learn more about the field!
 
 * 🌍 | I'm based in the New York area
 * ✉️ | You can contact me at [sienna.v.bates@gmail.com](mailto:sienna.v.bates@gmail.com)
