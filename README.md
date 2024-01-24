@@ -36,4 +36,4 @@ My name is Sienna, and I'm currently learning how to code in my free time. I'm e
 
 <b>My LeetCode Stats</b>
 
-[![Sienna's's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=siennabee)](https://github.com/siennabee/leetcode-stats)
+[![Sienna's's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=siennabee)](https://leetcode.com/siennabee/)
