@@ -33,3 +33,7 @@ My name is Sienna, and I'm currently learning how to code in my free time. I'm e
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/siennabee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siennabee&langs_count=10&title_color=a855f7&text_color=64748b&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>My LeetCode Stats</b>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?siennabee=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
